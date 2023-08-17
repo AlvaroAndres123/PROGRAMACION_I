@@ -1,0 +1,71 @@
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.exe
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.deps.json
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.runtimeconfig.json
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.dll
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.pdb
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.AssemblyReference.cache
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.frmCalculadora.resources
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.GenerateResource.cache
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfoInputs.cache
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfo.cs
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.dll
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\refint\pjCalculadora.dll
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.pdb
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.genruntimeconfig.cache
+C:\Users\JADPA-18\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\ref\pjCalculadora.dll
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.exe
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.deps.json
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.runtimeconfig.json
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.dll
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.pdb
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.frmCalculadora.resources
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.Properties.Resources.resources
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.GenerateResource.cache
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfo.cs
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.dll
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\refint\pjCalculadora.dll
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.pdb
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.genruntimeconfig.cache
+C:\Users\SISTEMAS2-20\source\repos\pjCalculadora\pjCalculadora\obj\Debug\net6.0-windows\ref\pjCalculadora.dll
+D:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.exe
+D:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.deps.json
+D:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.runtimeconfig.json
+D:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.dll
+D:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.pdb
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.AssemblyReference.cache
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.frmCalculadora.resources
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.Properties.Resources.resources
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.GenerateResource.cache
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfoInputs.cache
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfo.cs
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.CoreCompileInputs.cache
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.dll
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\refint\pjCalculadora.dll
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.pdb
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.genruntimeconfig.cache
+D:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\ref\pjCalculadora.dll
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.AssemblyReference.cache
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.frmCalculadora.resources
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.Properties.Resources.resources
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.GenerateResource.cache
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfoInputs.cache
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.AssemblyInfo.cs
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.dll
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\refint\pjCalculadora.dll
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.pdb
+E:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.exe
+E:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.deps.json
+E:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.runtimeconfig.json
+E:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.dll
+E:\VIsual Studio\pjCalculadora\bin\Debug\net6.0-windows\pjCalculadora.pdb
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\pjCalculadora.genruntimeconfig.cache
+E:\VIsual Studio\pjCalculadora\obj\Debug\net6.0-windows\ref\pjCalculadora.dll
